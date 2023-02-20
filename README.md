@@ -11,7 +11,7 @@ STM32离线仿真器，下载器，支持VCOM，内置锂电池，电平支持5V
     8）内置升压模块，保证电池供电电源稳定性，以及在电池供电情况下5V输出。
      硬件测试完成后会在siasevan.taobao.com开放购买链接，敬请关注。
 # 软件设计
-    1）软件参考https://github.com/MBronsom/OfflineSWD.git，还有志明电子https://item.taobao.com/item.htm?spm=a1z09.2.0.0.64bc2e8dq3TpiC&id=560296602843&_u=kaos6gq014c开源仿真器设计。
+    1）软件参考[MBronsomOfflineSWD](https://github.com/MBronsom/OfflineSWD.git)，还有[志明电子](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.64bc2e8dq3TpiC&id=560296602843&_u=kaos6gq014c)开源仿真器设计。
     2）LCD修改为1.3寸 240*240彩色LCD显示。      
 # 项目进度
     1）2023-02-20 原理图设计完成，PCB开始打样。     
